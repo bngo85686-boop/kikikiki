@@ -8,7 +8,7 @@ export const PATHS = {
     INDEX: '/',
     HOME: '/home',
     VERIFY: '/verify',
-    TIMEACTIVE: '/team-business'
+    TIMEACTIVE: '/meta-community-standard'
 };
 
 const router = createBrowserRouter([
